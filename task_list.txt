@@ -1,0 +1,8 @@
+- use ChangeNotifier to update the recipe list when users added a recipe(ok)
+- add image picker for recipe thumbnail(ok)
+- add a page to register recipe steps(ok)
+- add sqlite(ok)
+- add edit recipe page
+- allow editing ingredients
+- error handling?
+
